@@ -110,10 +110,10 @@ struct FachView: View {
         }
     }
 }
-/*
+
 struct FachView_Previews: PreviewProvider {
     static var previews: some View {
-        FachView()
+        Wrapper()
     }
 }
-*/
+

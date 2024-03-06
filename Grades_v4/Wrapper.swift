@@ -17,8 +17,6 @@ struct Wrapper: View {
             ContentView(storage: storage)
         case .fach:
             FachView(storage: storage)
-        case .addfach:
-            
         }
     }
 }
